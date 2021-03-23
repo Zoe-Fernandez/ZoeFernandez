@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarjetaDeCreditoMVC.Datos", "TarjetaDeCreditoMVC.Datos\TarjetaDeCreditoMVC.Datos.csproj", "{0785775A-DF54-4FBC-A88D-786478327EB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarjetaDeCreditoMVC.Entidades", "TarjetaDeCreditoMVC.Entidades\TarjetaDeCreditoMVC.Entidades.csproj", "{779F3E86-7E6A-46D2-8574-38C838E637B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarjetaDeCreditoMVC.Mapeador", "TarjetaDeCreditoMVC.Mapeador\TarjetaDeCreditoMVC.Mapeador.csproj", "{6EC01CE3-98B9-448D-87FE-BCA00AB78EEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarjetaDeCreditoMVC.Servicios", "TarjetaDeCreditoMVC.Servicios\TarjetaDeCreditoMVC.Servicios.csproj", "{8ED535A3-1F3C-440C-BBBA-A87551F8C015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarjetaDeCreditoMVC.Windows", "TarjetaDeCreditoMVC.Windows\TarjetaDeCreditoMVC.Windows.csproj", "{B7CE1786-F548-4D95-BFEA-93DFAFC6CEE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarjetaDeCreditoMVC.Web", "TarjetaDeCreditoMVC.Web\TarjetaDeCreditoMVC.Web.csproj", "{9AA5CE7B-40BC-41DA-A089-AF50ED40CD48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0785775A-DF54-4FBC-A88D-786478327EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0785775A-DF54-4FBC-A88D-786478327EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0785775A-DF54-4FBC-A88D-786478327EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0785775A-DF54-4FBC-A88D-786478327EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779F3E86-7E6A-46D2-8574-38C838E637B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779F3E86-7E6A-46D2-8574-38C838E637B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779F3E86-7E6A-46D2-8574-38C838E637B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779F3E86-7E6A-46D2-8574-38C838E637B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC01CE3-98B9-448D-87FE-BCA00AB78EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC01CE3-98B9-448D-87FE-BCA00AB78EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC01CE3-98B9-448D-87FE-BCA00AB78EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC01CE3-98B9-448D-87FE-BCA00AB78EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ED535A3-1F3C-440C-BBBA-A87551F8C015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED535A3-1F3C-440C-BBBA-A87551F8C015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED535A3-1F3C-440C-BBBA-A87551F8C015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED535A3-1F3C-440C-BBBA-A87551F8C015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7CE1786-F548-4D95-BFEA-93DFAFC6CEE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CE1786-F548-4D95-BFEA-93DFAFC6CEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CE1786-F548-4D95-BFEA-93DFAFC6CEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CE1786-F548-4D95-BFEA-93DFAFC6CEE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA5CE7B-40BC-41DA-A089-AF50ED40CD48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA5CE7B-40BC-41DA-A089-AF50ED40CD48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA5CE7B-40BC-41DA-A089-AF50ED40CD48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA5CE7B-40BC-41DA-A089-AF50ED40CD48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF2FE5AB-04EB-44A4-BC91-05B246365658}
+	EndGlobalSection
+EndGlobal
